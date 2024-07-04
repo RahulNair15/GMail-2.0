@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "clone-a13ab",
+    "mail": "clone-a13ab"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
